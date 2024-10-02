@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 15px; /* Adjust the gap between grid items as needed */
+  width: 600px; /* Adjust the width of the grid container as needed */
+  height: 600px; /* Adjust the height of the grid container as needed */
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  font-size: 24px;
+  cursor: pointer;
+}
