@@ -2,7 +2,7 @@
 
 In this session we covered the basics of React from defining what React is, to talking about components, props, and state.
 
-The take home assignment is to convert the vanilla Javascript into React. Scaffold the react project using [Vite](https://vitejs.dev) inside the TakeHomeAssignment Folder.
+The take home assignment is to convert the vanilla Javascript into React. Scaffold the react project using [Vite](https://vitejs.dev) inside a TakeHomeAssignment Folder.
 
 You app should be using the following React concepts:
 
